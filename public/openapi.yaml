@@ -102,7 +102,7 @@ info:
 
     # If you want to test requests from this live docs
 
-    rclone rcd --rc-no-auth --rc-allow-origin='https://rclone-rc-api.cloudnrain.com'
+    rclone rcd --rc-no-auth --rc-allow-origin='https://rclone-rc.api.mexhov.com'
 
     ```
 
