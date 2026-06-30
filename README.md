@@ -1,5 +1,7 @@
 # Rclone RC (Remote Control) API docs made with Scalar
 
+Visit live docs here: https://rclone-rc.api.mexhov.com/
+
 ## I. Local Development: API Docs 
 
 ### 1. Install dependencies
