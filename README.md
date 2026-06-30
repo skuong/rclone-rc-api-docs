@@ -2,6 +2,9 @@
 
 Visit live docs here: https://rclone-rc.api.mexhov.com/
 
+<img width="1000" alt="UI for testing API response from rclone rc" src="https://github.com/user-attachments/assets/4b02e089-164b-49b0-ba8f-d4d680db1c67" />
+
+
 ## I. Local Development: API Docs 
 
 ### 1. Install dependencies
