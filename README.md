@@ -1,4 +1,4 @@
-# Rclone RC (Remote Control) API docs made with Scalar
+# Enhanced Rclone RC (Remote Control) API docs made with Scalar
 
 Visit live docs here: https://rclone-rc.api.mexhov.com/
 
