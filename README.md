@@ -47,7 +47,9 @@ or
 rclone rcd --rc-user=rick --rc-pass=astleypass --rc-allow-origin='http://localhost:5173'
 ```
 
-Now you can send play with RC APIs.
+Now you can play with RC APIs.
+<img width="1000" alt="Scalar UI showing sending request to Rclone RC with user and password" src="https://github.com/user-attachments/assets/484bbdde-ab6a-4dd8-9490-16b847b64e4a" />
+
 
 ## II. Explore more with examples (using **Docker**)
 
