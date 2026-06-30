@@ -53,9 +53,9 @@ Now you can send play with RC APIs.
 
 **Note**: Make sure you have docker running.
 
-### 1. Get into the `example` directory
+### 1. Get into the `examples` directory
 ```bash
-cd example
+cd examples
 ```
 
 ### 2. Run docker services using Docker Compose file
