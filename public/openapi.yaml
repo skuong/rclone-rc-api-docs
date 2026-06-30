@@ -80,6 +80,16 @@ info:
 
     ```bash
 
+    # If you want to test requests from live docs on api.mexhov.com
+
+    rclone rcd --rc-no-auth --rc-allow-origin='https://rclone-rc.api.mexhov.com'
+
+
+    # Allow cross-origin requests (for browser-based apps)
+
+    rclone rcd --rc-no-auth --rc-allow-origin='http://localhost:5173'
+
+
     # With authentication (recommended for anything non-local)
 
     rclone rcd --rc-user=admin --rc-pass=secret
@@ -95,14 +105,6 @@ info:
     rclone rcd --rc-web-gui --rc-no-auth
 
 
-    # Allow cross-origin requests (for browser-based apps)
-
-    rclone rcd --rc-no-auth --rc-allow-origin='http://localhost:5173'
-
-
-    # If you want to test requests from this live docs
-
-    rclone rcd --rc-no-auth --rc-allow-origin='https://rclone-rc.api.mexhov.com'
 
     ```
 
